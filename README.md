@@ -26,7 +26,7 @@ Este  projeto  explora  a  criação  de  um  curta-metragem  de  ficção  cien
 
 1.  **Desenvolvimento  da  Narrativa:**  Utilizando  o  Gemini,  será  elaborado  um  roteiro  envolvente  que  explore  temas  como  solidão,  esperança  e  o  poder  da  conexão  humana  (mesmo  que  com  uma  IA). O texto gerado está em um arquivo de texto com o nome gemini.txt
     
-2.  **Geração  de  Imagens  Evocativas:**  Com  o  Craiyon,  será gerado  imagens  que  transmitam  a  imensidão  do  espaço,  a  solidão  do  astronauta  e  a  presença  etérea  da  IA.  A  estética  será  focada  em  imagens  surrealistas  e  abstratas. (IMAGENS GERADAS)[https://drive.google.com/drive/folders/1PLn0T_T2nJHmMXm4mRdfEeMkX1HktLk1?usp=drive_link]
+2.  **Geração  de  Imagens  Evocativas:**  Com  o  Craiyon,  será gerado  imagens  que  transmitam  a  imensidão  do  espaço,  a  solidão  do  astronauta  e  a  presença  etérea  da  IA.  A  estética  será  focada  em  imagens  surrealistas  e  abstratas. (IMAGENS GERADAS)[https://drive.google.com/drive/folders/1PLn0T_T2nJHmMXm4mRdfEeMkX1HktLk1?usp=sharing]
    
 3.  **Geração  do Curta Metragem:**  Com o Veed, será criado o curta metragem com base no texto e posteriormente no próprio Veed adicionado as imagens.
 
